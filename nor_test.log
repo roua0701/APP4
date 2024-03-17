@@ -1,0 +1,21 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\arous\Bureau\APP4\S4iAPP4_prob\S4iAPP4_prob\nor_test.asc
+Start Time: Sun Mar 17 16:22:29 2024
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+
+t1: time=4.03291e-09 at 4.03291e-09
+t2: time=4.20399e-09 at 4.20399e-09
+t3: time=1.05074e-09 at 1.05074e-09
+t4: time=1.00837e-09 at 1.00837e-09
+transition_up: abs(t2-t1)=1.71082e-10
+transition_down: abs(t4-t3)=4.23753e-11
+
+Measurement "ratio" FAIL'ed
+
+Total elapsed time: 0.193 seconds.
+
