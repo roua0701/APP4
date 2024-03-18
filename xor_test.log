@@ -1,84 +1,21 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\arous\Bureau\APP4\Problematique\xor_test.asc
-Start Time: Sun Mar 17 18:19:37 2024
-Questionable use of curly braces in "m1 _q in vss vss nmos l={ll} w={wn} ad={450n*{wn}} as={450n*{wn}} pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "[ll]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w={wn} ad={450n*{wn}} as={450n*{wn}} pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "[wn]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad={450n*{wn}} as={450n*{wn}} pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "450n*([wn])"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*{wn}) as={450n*{wn}} pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "[wn]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as={450n*{wn}} pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "450n*([wn])"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as=(450n*{wn}) pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "[wn]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as=(450n*(wn)) pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "900n+([wn])"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as=(450n*(wn)) pd=(900n+{wn}) ps={1080n+{wn}}"
-    Error: undefined symbol in: "[wn]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as=(450n*(wn)) pd=(900n+(wn)) ps={1080n+{wn}}"
-    Error: undefined symbol in: "1080n+([wn])"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as=(450n*(wn)) pd=(900n+(wn)) ps=(1080n+{wn})"
-    Error: undefined symbol in: "[wn]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l={ll} w={wp} ad={450n*{wp}} as={450n*{wp}} pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "[ll]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w={wp} ad={450n*{wp}} as={450n*{wp}} pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "[wp]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad={450n*{wp}} as={450n*{wp}} pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "450n*([wp])"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*{wp}) as={450n*{wp}} pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "[wp]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as={450n*{wp}} pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "450n*([wp])"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as=(450n*{wp}) pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "[wp]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as=(450n*(wp)) pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "900n+([wp])"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as=(450n*(wp)) pd=(900n+{wp}) ps={1080n+{wp}}"
-    Error: undefined symbol in: "[wp]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as=(450n*(wp)) pd=(900n+(wp)) ps={1080n+{wp}}"
-    Error: undefined symbol in: "1080n+([wp])"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as=(450n*(wp)) pd=(900n+(wp)) ps=(1080n+{wp})"
-    Error: undefined symbol in: "[wp]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l={ll} w={wn} ad={450n*{wn}} as={450n*{wn}} pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "[ll]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w={wn} ad={450n*{wn}} as={450n*{wn}} pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "[wn]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad={450n*{wn}} as={450n*{wn}} pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "450n*([wn])"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*{wn}) as={450n*{wn}} pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "[wn]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as={450n*{wn}} pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "450n*([wn])"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as=(450n*{wn}) pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "[wn]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as=(450n*(wn)) pd={900n+{wn}} ps={1080n+{wn}}"
-    Error: undefined symbol in: "900n+([wn])"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as=(450n*(wn)) pd=(900n+{wn}) ps={1080n+{wn}}"
-    Error: undefined symbol in: "[wn]"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as=(450n*(wn)) pd=(900n+(wn)) ps={1080n+{wn}}"
-    Error: undefined symbol in: "1080n+([wn])"
-Questionable use of curly braces in "m1 _q in vss vss nmos l=(ll) w=(wn) ad=(450n*(wn)) as=(450n*(wn)) pd=(900n+(wn)) ps=(1080n+{wn})"
-    Error: undefined symbol in: "[wn]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l={ll} w={wp} ad={450n*{wp}} as={450n*{wp}} pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "[ll]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w={wp} ad={450n*{wp}} as={450n*{wp}} pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "[wp]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad={450n*{wp}} as={450n*{wp}} pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "450n*([wp])"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*{wp}) as={450n*{wp}} pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "[wp]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as={450n*{wp}} pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "450n*([wp])"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as=(450n*{wp}) pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "[wp]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as=(450n*(wp)) pd={900n+{wp}} ps={1080n+{wp}}"
-    Error: undefined symbol in: "900n+([wp])"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as=(450n*(wp)) pd=(900n+{wp}) ps={1080n+{wp}}"
-    Error: undefined symbol in: "[wp]"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as=(450n*(wp)) pd=(900n+(wp)) ps={1080n+{wp}}"
-    Error: undefined symbol in: "1080n+([wp])"
-Questionable use of curly braces in "m2 vdd in _q vdd pmos l=(ll) w=(wp) ad=(450n*(wp)) as=(450n*(wp)) pd=(900n+(wp)) ps=(1080n+{wp})"
-    Error: undefined symbol in: "[wp]"
-Fatal Error: Numerical value expected here: "ll) w=(wn) ad=(450n*(wn)) as=(450n*(wn)) pd=(900n+(wn)) ps=(1080n+(wn))".
+Start Time: Mon Mar 18 12:38:45 2024
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+
+t1: time=1.04668e-09 at 1.04668e-09
+t2: time=1.17677e-09 at 1.17677e-09
+t3: time=2.12498e-09 at 2.12498e-09
+t4: time=2.01392e-09 at 2.01392e-09
+transition_up: abs(t2-t1)=1.30092e-10
+transition_down: abs(t4-t3)=1.11061e-10
+
+Measurement "ratio" FAIL'ed
+
+Total elapsed time: 0.129 seconds.
+

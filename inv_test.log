@@ -1,0 +1,22 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\arous\Bureau\APP4\Problematique\inv_test.asc
+Start Time: Mon Mar 18 12:24:48 2024
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+
+t1: time=3.23419e-10 at 3.23419e-10
+t2: time=4.1965e-10 at 4.1965e-10
+t3: time=9.84792e-11 at 9.84792e-11
+t4: time=2.36263e-11 at 2.36263e-11
+uptime: abs(t2-t1)=9.62306e-11
+downtime: abs(t4-t3)=7.48529e-11
+upslope: abs( 1.62 - 0.18 )/abs(t2-t1)=1.49641e+10
+downslope: abs( 1.62 - 0.18 )/abs(t4-t3)=1.92377e+10
+ratio: upslope/downslope=0.777849
+
+Total elapsed time: 0.069 seconds.
+
