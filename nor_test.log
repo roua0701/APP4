@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\arous\Bureau\APP4\Problematique\nor_test.asc
-Start Time: Mon Mar 18 13:56:15 2024
+Start Time: Tue Mar 19 10:02:14 2024
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -17,5 +17,5 @@ transition_down: abs(t4-t3)=7.99251e-11
 
 Measurement "ratio" FAIL'ed
 
-Total elapsed time: 0.071 seconds.
+Total elapsed time: 0.107 seconds.
 
