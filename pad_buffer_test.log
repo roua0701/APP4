@@ -1,11 +1,11 @@
 LTspice 24.0.9 for Windows
-Circuit: * C:\Users\arous\Bureau\APP4\Problematique\mux2x3b_test.asc
-Start Time: Tue Mar 19 23:17:43 2024
+Circuit: * C:\Users\arous\Bureau\APP4\Problematique\pad_buffer_test.asc
+Start Time: Tue Mar 19 22:10:19 2024
 solver = Normal
 Maximum thread count: 16
 tnom = 27
 temp = 27
 method = modified trap
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.170 seconds.
+Total elapsed time: 0.174 seconds.
 
